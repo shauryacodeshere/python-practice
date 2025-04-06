@@ -1,0 +1,5 @@
+list=list(map(float,input('Enter the list:').split()))
+largest=max(list)
+print(largest)
+smallest=min(list)
+print(smallest)
